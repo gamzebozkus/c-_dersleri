@@ -1,0 +1,15 @@
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\bin\Debug\net6.0\console-programları.exe
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\bin\Debug\net6.0\console-programları.deps.json
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\bin\Debug\net6.0\console-programları.runtimeconfig.json
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\bin\Debug\net6.0\console-programları.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\bin\Debug\net6.0\ref\console-programları.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\bin\Debug\net6.0\console-programları.pdb
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.csproj.AssemblyReference.cache
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.AssemblyInfoInputs.cache
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.AssemblyInfo.cs
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.csproj.CoreCompileInputs.cache
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\ref\console-programları.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.pdb
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\console-programları\obj\Debug\net6.0\console-programları.genruntimeconfig.cache
