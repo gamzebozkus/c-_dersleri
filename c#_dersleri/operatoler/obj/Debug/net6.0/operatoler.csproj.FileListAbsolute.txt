@@ -1,0 +1,15 @@
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\bin\Debug\net6.0\operatoler.exe
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\bin\Debug\net6.0\operatoler.deps.json
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\bin\Debug\net6.0\operatoler.runtimeconfig.json
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\bin\Debug\net6.0\operatoler.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\bin\Debug\net6.0\ref\operatoler.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\bin\Debug\net6.0\operatoler.pdb
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.csproj.AssemblyReference.cache
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.AssemblyInfoInputs.cache
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.AssemblyInfo.cs
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.csproj.CoreCompileInputs.cache
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\ref\operatoler.dll
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.pdb
+C:\Users\1gamz\Desktop\c#_dersleri\c#_dersleri\operatoler\obj\Debug\net6.0\operatoler.genruntimeconfig.cache
